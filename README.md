@@ -117,10 +117,17 @@ Full Stack Developer with a Computer Science degree (GPA: 4.65/5), specializing 
   <a href="https://github.com/ShathaAltassan/Gamer-X">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShathaAltassan&repo=Gamer-X&theme=midnight-purple" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/ShathaAltassan/PongGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShathaAltassan&repo=PongGame&theme=midnight-purple" />
   </a>
+  <a href="https://github.com/ShathaAltassan/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShathaAltassan&repo=Portfolio&theme=midnight-purple" />
+  </a>
 </div>
+
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBhMzM5NjQtY2ZjMC00NGYyLWE0ZjAtMjM4ZTUxYjMxZjUxJmVwPXYxX2ludGVybmFsX2dpZnNfZ2lmSWQmY3Q9cw/YnS7j9pwnECXLMrI4t/giphy.gif" width="30"> Let's Connect!
 
