@@ -36,13 +36,10 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzllM2ZkNjY4YTFjYjJlZGQzOTU3ZmI4OWM2MGVjM2QyZjkxYjM5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UVG0BN8TOMKkPOJS6m/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 <p align="left">
 Full Stack Developer with a Computer Science degree (GPA: 4.65/5), specializing in creating dynamic, responsive web applications. Experienced in both front-end and back-end technologies, including React.js, FastAPI, Flask, and database systems like PostgreSQL and MongoDB. Committed to clean code, intuitive UI/UX design, and efficient development practices.
 </p>
 
-<br><br><br><br><br><br>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM4MzQzMDZiZGNkNjg2ZTFhZjYwYjYzYjU5NjA0OGUyYzM3YmU3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Professional Experience
 
